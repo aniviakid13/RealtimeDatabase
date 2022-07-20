@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "879035075103",
+    "firebase_url": "https://test-4ab33-default-rtdb.firebaseio.com",
+    "project_id": "test-4ab33",
+    "storage_bucket": "test-4ab33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879035075103:android:08e0105a6b17516a9ce32a",
+        "android_client_info": {
+          "package_name": "com.codefresher.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879035075103-pi0ebuj1po2ihv2l4stuv15bgqfpgn2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXznvRkt34jyjVMDND0B4RJH35GDL9Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879035075103-pi0ebuj1po2ihv2l4stuv15bgqfpgn2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879035075103:android:36c2430c99d2747d9ce32a",
+        "android_client_info": {
+          "package_name": "com.codefresher.recipebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879035075103-pi0ebuj1po2ihv2l4stuv15bgqfpgn2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXznvRkt34jyjVMDND0B4RJH35GDL9Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879035075103-pi0ebuj1po2ihv2l4stuv15bgqfpgn2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
